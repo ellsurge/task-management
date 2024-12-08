@@ -155,6 +155,3 @@ This is a simple task management system built with Laravel that allows users to:
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-This README should provide clear guidance for installing, setting up, and using the Task Management System. Let me know if you need any additional sections!
